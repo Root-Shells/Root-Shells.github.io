@@ -9,19 +9,18 @@ export default defineConfig({
     react(),
     sitemap(),
     rss({
-      // Required RSS configuration options
-      title: 'Your Site Title',
-      description: 'A brief description of your site or feed',
+      title: 'Your Site Title', // Replace with your site's title
+      description: 'A brief description of your site', // Replace with a brief description
       site: 'https://Root-Shells.github.io',
-      items: async () => {
-        // Generate your feed items here
-        // This usually involves fetching or computing a list of items
-        // that represent your RSS feed entries
+      items: () => {
+        // Here you should return an array of items for your RSS feed
+        // This typically involves fetching or generating a list of your blog posts, articles, or other content.
+        // Ensure that any asynchronous operations are resolved before this function is called.
         return []; // Replace with your actual feed items
       },
     }),  
   ],
   markdown: {
-    // Configure your markdown options here
+    // Configure your markdown options here if needed
   },
 });
