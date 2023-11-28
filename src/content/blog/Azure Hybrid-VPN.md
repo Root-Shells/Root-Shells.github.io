@@ -1,7 +1,7 @@
 ---
 author: Moe Chaudhry
 pubDatetime: 2021-8-4T14:11:54.547Z
-title: "Azure Project: Designing a Hybrid Network with Azure"
+title: "Designing a Hybrid Network with Azure"
 postSlug: Azure-Hybrid-Network
 featured: false
 ogImage: https://github.com/satnaing/astro-paper/assets/53733092/1ef0cf03-8137-4d67-ac81-84a032119e3a
