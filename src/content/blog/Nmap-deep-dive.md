@@ -21,13 +21,6 @@ Nmap is a versatile tool used for network discovery and security auditing. Its d
 
 ## Nmap in Action: Diverse Scenarios
 
-Before diving into the steps, ensure the following:
-
-- An S3 bucket is created with static website hosting enabled.
-- `index.html` is prepared and uploaded to your chosen GitHub repository branch.
-
-## Project Steps
-
 ### Scenario 1: Basic Firewall Configuration
 
 In this setup, where the firewall acts merely as a router, Nmap's ICMP and TCP requests receive expected responses, indicating the presence of active hosts.
