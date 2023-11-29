@@ -1,7 +1,7 @@
 ---
 author: Moe Chaudhry
 pubDatetime: 2019-1-14T14:14:15.547Z
-title: "What even is DNS - this is a test?"
+title: "What even is DNS"
 postSlug: what-is-DNS
 featured: false
 tags:
