@@ -1,9 +1,9 @@
 ---
 author: Moe Chaudhry
 pubDatetime: 2021-5-22T14:14:54.547Z
-title: "Creating a Static Website in AWS with CI/CD Pipelines"
+title: "Creating a Static Website on AWS with CI/CD Pipelines"
 postSlug: AWS-Static-Website
-featured: false
+featured: true
 ogImage: https://github.com/satnaing/astro-paper/assets/53733092/1ef0cf03-8137-4d67-ac81-84a032119e3a
 tags:
   - AWS
