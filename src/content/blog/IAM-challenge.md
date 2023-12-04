@@ -4,6 +4,7 @@ pubDatetime: 2023-11-8T24:24:54.547Z
 title: "Big IAM Challenge: Identifying and exploiting AWS IAM Misconfigurations"
 postSlug: IAM Challenge
 featured: false
+draft: true
 ogImage: https://github.com/satnaing/astro-paper/assets/53733092/1ef0cf03-8137-4d67-ac81-84a032119e3a
 tags:
   - Cybersecurity

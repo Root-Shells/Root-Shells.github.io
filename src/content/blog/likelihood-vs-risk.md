@@ -1,7 +1,7 @@
 ---
 author: Moe Chaudhry
 pubDatetime: 2023-10-25T10:25:54.547Z
-title: "Risk Classification in Penetration Testing: Likelihood vs Impact"
+title: "Evaluating Risks in Penetration Tests"
 postSlug: likelihood-vs-risk
 featured: false
 ogImage: https://github.com/satnaing/astro-paper/assets/53733092/1ef0cf03-8137-4d67-ac81-84a032119e3a

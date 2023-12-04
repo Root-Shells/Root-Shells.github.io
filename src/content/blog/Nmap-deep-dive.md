@@ -3,7 +3,7 @@ author: Moe Chaudhry
 pubDatetime: 2023-3-14T14:07:15.547Z
 title: "A Deep Dive into Nmap"
 postSlug: Nmap Deep Dive
-featured: false
+featured: true
 tags:
   - infrastructure
   - penetration testing
