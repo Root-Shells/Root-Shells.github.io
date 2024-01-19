@@ -22,6 +22,7 @@ Away from the keyboard, my time off is all about hitting the right notes on the 
 ## Certifications
 
 - [Offsec Certificed Professional (OSCP)](https://www.credential.net/93c14563-3794-4448-bf91-387c13b1680b)
+- [Offensive AWS Security Professional (OAWSP)](https://eu.badgr.com/public/assertions/2pYGZodoQcKO0J1vBGRscw?identity__email=moe.a.chaudhry@gmail.com)
 - [GIAC Certified Penetration Tester (GPEN)](https://www.credly.com/badges/cdbe2aa9-9a6a-4929-b8e1-2bf74777492a)
 - [GIAC Web Application Penetration Tester (GWAPT)](https://www.credly.com/badges/1efa2e37-4607-46a2-b7d3-bb11f9f70cd9)
 - [GIAC Certified Incident Handler (GCIH)](https://www.credly.com/badges/200d64e4-c525-4c26-b080-c37033380349/public_url)
